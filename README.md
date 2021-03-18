@@ -18,7 +18,7 @@ Cluster 5 (Yellow) - Very Small, Very Democratic, all others below average.
 
 Just looking at the factors the Blue and Yellow clusters are very similar except for size. The others are similar in having less democrats than the average. If I were doing this again I might exclude the size parameter, because it is less related than just straight vote percentages. The final map is shown below along with a race map of Baltimore.
 
-![alt text](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Bristol-Baltimore.png)
+![alt text](https://github.com/cmclane1/Analyzing-Baltimore-Election-Precincts-2016/blob/main/Baltimore-Cluster-Map.png)
 
 I do not believe the anchor positions are of any importance but there are a lote of interesting things here. First look at the blue and yellow clusters (which are extremely similar in political party voting, just not size) and you can clearly see that they line up extremely closely with the neighborhoods that are majority Black. Then the Green and Red clusters are in majority white neighborhoods. The Black cluster leans white but is more erradic and has a smaller number of precincts (also is average in Republican and Democrat). A conclusion is that Black Baltimoreans are vote more democratic on aggregate. White voters vote less democratic, but are split. That central corridor of white majority neighborhoods (Where JHU is) voted heavily for the green party, a liberal 3rd party. While other white neighborhoods near the Patapsco River or Townsend, lean Republican (conservative).
 
