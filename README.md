@@ -38,12 +38,8 @@ I then used conditional coloring of cells so I could visually identify which anc
 ## Links to Sources
 [Analysis](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimor-Bristol-Analysis.xlsx)
 
-[Data](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimore-Bristol-Data.xlsx)
+[Data](https://elections.maryland.gov/elections/2016/election_data/index.html)
 
-[Opportunity Atlas](https://www.opportunityatlas.org/)
+[Precinct Map](https://boe.baltimorecity.gov/sites/default/files/CongressionalDistricts_WardsPrecincts-2012_2.pdf)
 
-[Baltimore Wikipedia](https://en.wikipedia.org/wiki/Baltimore)
-
-[Bristol County Wikipedia](https://en.wikipedia.org/wiki/Bristol_County,_Rhode_Island)
-
-[Catholic Counties of the US](https://www.thearda.com/ql2010/QL_C_2010_1_26c.asp)
+[Racial Map](https://bestneighborhood.org/race-in-baltimore-md/)
